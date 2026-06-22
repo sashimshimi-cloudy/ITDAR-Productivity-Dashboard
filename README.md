@@ -1,2 +1,36 @@
-# ITDAR-Productivity-Dashboard
-A Power BI dashboard designed to analyze productivity performance across working hours and modules. The project provides executive-level KPIs, productivity trends, module analysis, and actionable insights to support data-driven decision-making.
+# ITDAR Productivity Dashboard
+
+## Project Overview
+
+This Power BI dashboard analyzes productivity performance, working hours, and module efficiency through interactive visualizations and KPI reporting.
+
+## Tools Used
+
+- Power BI
+- Power Query
+- DAX
+- Data Modeling
+
+## Dashboard Pages
+
+### Executive Summary
+![Executive Summary](Images/Executive_Summary.png)
+
+### Working Analysis
+![Working Analysis](Images/Working_Analysis.png)
+
+### Module Analysis
+![Module Analysis](Images/Module_Analysis.png)
+
+### Insight Page
+![Insight Page](Images/Insight_Page.png)
+
+## Repository Structure
+
+Dashboard/
+Images/
+Documentation/
+
+## Author
+
+Jeian Sumagpao
